@@ -1,129 +1,71 @@
 <div align="center">
 
-  <!-- Header Banner / Title -->
-  <h1>⚡ Hi, I'm <a href="https://yuto.site">yUto</a> 👋</h1>
-  <p><strong>Full-Stack Developer | UI/UX Enthusiast | Creator of Modern Web Experiences</strong></p>
+# Kyaw Nyein Chan Htwe
 
-  <p>
-    <a href="https://yuto.site"><img src="https://img.shields.io/badge/Live_Portfolio-yuto.site-6366f1?style=for-the-badge&logo=globe&logoColor=white" alt="Live Site"></a>
-    <a href="mailto:kyawnyein19@gmail.com"><img src="https://img.shields.io/badge/Email_Me-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
+### Beginner Web Developer · Computer Science Student
 
-  <p>🚀 Building seamless digital experiences with clean code and modern interface aesthetics.</p>
+I build responsive, user-focused web experiences with clean code and modern web technologies.
 
-  ---
+[**View Portfolio**](https://yuto.site) · [**Explore Projects**](#-featured-projects) · [**Get in Touch**](#-lets-connect)
 
-</div>
+<br />
 
-## 🌟 About Me
-
-- 💻 Passionate about **Frontend & Full-Stack Web Development**
-- 🎨 Focused on **Glassmorphism, Responsive Layouts, and Interactive UI/UX**
-- 🌐 Explore my live projects & interactive portfolio at **[yuto.site](https://yuto.site)**
-- 🎓 Computer Science Student @ UCSY
-- ⚡ Fun Fact: Always experimenting with new tech stacks, IoT robotics, and single-file web apps!
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### **Languages & Frameworks**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openid&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Location](https://img.shields.io/badge/Based%20in-Pyin%20Oo%20Lwin%2C%20Myanmar-0f766e?style=flat-square)
+![Study](https://img.shields.io/badge/Studying-Computer%20Science-2563eb?style=flat-square)
+![University](https://img.shields.io/badge/UCSY-Student-7c3aed?style=flat-square)
 
 </div>
 
 ---
 
-## 💎 Highlighted Showcase
+## ✦ About
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Modern Portfolio Hub</h3>
-      <p align="center">
-        <a href="https://yuto.site">
-          <img src="https://img.shields.io/badge/Live_Demo-yuto.site-6366f1?style=for-the-badge" alt="yuto.site">
-        </a>
-      </p>
-      <p>A sleek, interactive personal website featuring glassmorphism elements, dynamic skills matrix, project showcases, and CV export features.</p>
-      <p><strong>Tech Stack:</strong> React / Next.js, Tailwind CSS, JavaScript</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧭 WanderWise 360</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status">
-      </p>
-      <p>A comprehensive travel guide web application featuring regional tourism information, dynamic destination discovery, and booking interface.</p>
-      <p><strong>Tech Stack:</strong> HTML5, Modern CSS Grid/Flexbox, JavaScript</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🍿 Cinema Booking & QR Scanner</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Feature-QR_Verification-orange?style=for-the-badge" alt="QR Feature">
-      </p>
-      <p>An end-to-end web system for cinema ticket booking with encrypted QR code generation and real-time scanning verification.</p>
-      <p><strong>Tech Stack:</strong> Vanilla JS, Web QR API, CSS</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚡ Smart Meter Calc</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Deployed-Firebase-FFCA28?style=for-the-badge" alt="Firebase">
-      </p>
-      <p>Utility web tool for calculating local electricity meter bills with real-time tier calculation and breakdown metrics.</p>
-      <p><strong>Tech Stack:</strong> JavaScript, CSS3, Firebase Hosting</p>
-    </td>
-  </tr>
-</table>
+I’m a Computer Science student at the University of Computer Studies, Yangon (UCSY), and an early-career web developer. I enjoy turning practical ideas into approachable, responsive web applications—from local utility tools to travel and personal-finance experiences.
+
+I’m currently building my skills through hands-on projects and welcome opportunities to collaborate, learn, and create useful products.
+
+## ◈ Featured Projects
+
+| Project | What it does | Stack | Links |
+|:--|:--|:--|:--|
+| **Smart Meter Bill Calculator** | Estimates electricity bills in Myanmar using smart meter rates. | HTML · CSS · JavaScript | [Live demo ↗](https://smart-meter-calc.vercel.app/) · [Source ↗](https://github.com/yUto-ship-it/smart-meter-calc) |
+| **WanderWise 360** | A travel guide web app for discovering destinations around the world. | HTML · CSS · JavaScript | [Live demo ↗](https://wanderwise360.vercel.app/) · [Source ↗](https://github.com/yUto-ship-it/wanderWise360) |
+| **Expense Tracker for Myanmar** | A personal finance tracker designed with Myanmar users in mind. | HTML · CSS · JavaScript | [Live demo ↗](https://tracker-yuto.vercel.app/) · [Source ↗](https://github.com/yUto-ship-it/tracker) |
+| **UCSY Smart Roll Call** | Student attendance app with QR scanning, face recognition, an admin dashboard, real-time tracking, and CSV export. | HTML · CSS · JavaScript | [Live demo ↗](https://ucsy-roll-calling.vercel.app/) · [Source ↗](https://github.com/yUto-ship-it/UCSY-Roll-calling) |
+
+## ⌘ Skills
+
+My current focus is front-end web development, with foundational experience in Java and MySQL.
+
+| Technology | Current self-rating |
+|:--|:--|
+| HTML | `█████████░` 90% |
+| CSS | `████████▌░` 85% |
+| JavaScript | `██████░░░░` 60% |
+| Java | `█▌░░░░░░░░` 15% |
+| MySQL | `█░░░░░░░░░` 10% |
+
+*These are personal learning-progress estimates, not formal proficiency or assessment scores.*
+
+## ✉ Lets Connect
+
+Open to freelance work, collaboration, and conversations about building useful web experiences.
+
+- **Email:** [knchtwe@gmail.com](mailto:knchtwe@gmail.com)
+- **Phone:** [+95 9 673586673](tel:+959673586673)
+- **Location:** Pyin Oo Lwin, Myanmar
+- **Portfolio:** [yuto.site](https://yuto.site)
+- **GitHub:** [@yUto-ship-it](https://github.com/yUto-ship-it)
+- **Telegram:** [@yuto_koi](https://t.me/yuto_koi)
+- **Facebook:** [Profile](https://www.facebook.com/share/1Cj6KyDR1V/)
+- **TikTok:** [@yuto_koi](https://tiktok.com/@yuto_koi?_r=1&_t=ZS-95MkWdwy1DB)
 
 ---
-
-## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=yUto-ship-it&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yUto-ship-it&layout=compact&theme=tokyonight&hide=html"/>
+**Thanks for stopping by — let’s build something meaningful.**
 
-</div>
-
----
-
-## 📬 Let's Connect!
-
-<div align="center">
-
-| Channel | Link |
-| :--- | :--- |
-| **🌐 Portfolio** | [yuto.site](https://yuto.site) |
-| **📧 Email** | [kyawnyein19@gmail.com](mailto:kyawnyein19@gmail.com) |
-| **OCTOCAT GitHub** | [@yUto-ship-it](https://github.com/yUto-ship-it) |
-
-<br>
-
----
-
-<sub><em>Designed with ❤️ by yUto • Powered by [yuto.site](https://yuto.site)</em></sub>
+[Visit yuto.site ↗](https://yuto.site)
 
 </div>
