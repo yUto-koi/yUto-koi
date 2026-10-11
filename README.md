@@ -5,8 +5,6 @@
   # ⚡ Hi, I'm Kyaw Nyein Chan Htwe <sub>(yUto)</sub> 👋
 
   <p>
-    <img src="https://img.shields.io/badge/Status-Available_for_Freelance-success?style=for-the-badge&logo=appveyor" alt="Status">
-    <img src="https://img.shields.io/badge/Role-Frontend_Developer-6366f1?style=for-the-badge&logo=react&logoColor=white" alt="Role">
     <img src="https://img.shields.io/badge/Student-UCSY-ff69b4?style=for-the-badge&logo=graduation-dot-com&logoColor=white" alt="UCSY">
   </p>
 
@@ -39,11 +37,11 @@ I’m a passionate web developer with **less than one year of experience** craft
 
 | Technology | Proficiency Level | Status & Badge |
 | :--- | :---: | :--- |
-| **HTML5 / Semantic Markup** | █ █ █ █ █ █ █ █ █ ░ **(90%)** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **CSS3 / Responsive Design** | █ █ █ █ █ █ █ █ ░ ░ **(85%)** | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **JavaScript (ES6+)** | █ █ █ █ █ █ █ ░ ░ ░ **(80%)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Java Programming** | █ █ █ █ █ █ █ ░ ░ ░ **(75%)** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **MySQL & JDBC** | █ █ █ █ █ █ ░ ░ ░ ░ **(70%)** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **HTML5 / Semantic Markup** | █ █ █ █ █ █ █ ░ ░ ░ **(70%)** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **CSS3 / Responsive Design** | █ █ █ █ █ █ ░ ░ ░ ░ **(60%)** | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **JavaScript (ES6+)** | █ █ █ ░ ░ ░ ░ ░ ░ ░ **(30%)** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Java Programming** | █ █ ░ ░ ░ ░ ░ ░ ░ ░ **(15%)** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **MySQL & JDBC** | █ ░ ░ ░ ░ ░ ░ ░ ░ ░ **(10%)** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 
 </div>
 
