@@ -1,71 +1,94 @@
 <div align="center">
 
-# Kyaw Nyein Chan Htwe
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663623309572/OADKGNvEcZnuPUGN.jpg" alt="Kyaw Nyein Chan Htwe" width="150" />
+
+# Kyaw Nyein Chan Htwe <sub>(yUto)</sub>
 
 ### Beginner Web Developer · Computer Science Student
 
-I build responsive, user-focused web experiences with clean code and modern web technologies.
+**Building beautiful, responsive web experiences with modern technologies.**  
+Passionate about clean code and user-centered design. Currently studying Computer Science at the **University of Computer Studies, Yangon (UCSY)**.
 
-[**View Portfolio**](https://yuto.site) · [**Explore Projects**](#-featured-projects) · [**Get in Touch**](#-lets-connect)
-
-<br />
-
-![Location](https://img.shields.io/badge/Based%20in-Pyin%20Oo%20Lwin%2C%20Myanmar-0f766e?style=flat-square)
-![Study](https://img.shields.io/badge/Studying-Computer%20Science-2563eb?style=flat-square)
-![University](https://img.shields.io/badge/UCSY-Student-7c3aed?style=flat-square)
+[🌐 Portfolio](https://www.yuto.site/) · [✉️ Email](mailto:knchtwe@gmail.com) · [💻 GitHub](https://github.com/yUto-koi?tab=repositories)
 
 </div>
 
 ---
 
-## ✦ About
+## About
 
-I’m a Computer Science student at the University of Computer Studies, Yangon (UCSY), and an early-career web developer. I enjoy turning practical ideas into approachable, responsive web applications—from local utility tools to travel and personal-finance experiences.
+I’m a web developer with **less than one year of experience** creating modern, responsive websites and web applications. I enjoy turning practical ideas into useful digital tools—from travel discovery to everyday finance and campus workflows.
 
-I’m currently building my skills through hands-on projects and welcome opportunities to collaborate, learn, and create useful products.
+- **Focus:** Responsive web development and user-centered interfaces
+- **Currently studying:** Computer Science at UCSY
+- **Based in:** Pyin Oo Lwin, Myanmar
+- **Open to:** Freelance work and collaboration opportunities
 
-## ◈ Featured Projects
+## Tech Stack
 
-| Project | What it does | Stack | Links |
-|:--|:--|:--|:--|
-| **Smart Meter Bill Calculator** | Estimates electricity bills in Myanmar using smart meter rates. | HTML · CSS · JavaScript | [Live demo ↗](https://smart-meter-calc.vercel.app/) · [Source ↗](https://github.com/yUto-ship-it/smart-meter-calc) |
-| **WanderWise 360** | A travel guide web app for discovering destinations around the world. | HTML · CSS · JavaScript | [Live demo ↗](https://wanderwise360.vercel.app/) · [Source ↗](https://github.com/yUto-ship-it/wanderWise360) |
-| **Expense Tracker for Myanmar** | A personal finance tracker designed with Myanmar users in mind. | HTML · CSS · JavaScript | [Live demo ↗](https://tracker-yuto.vercel.app/) · [Source ↗](https://github.com/yUto-ship-it/tracker) |
-| **UCSY Smart Roll Call** | Student attendance app with QR scanning, face recognition, an admin dashboard, real-time tracking, and CSV export. | HTML · CSS · JavaScript | [Live demo ↗](https://ucsy-roll-calling.vercel.app/) · [Source ↗](https://github.com/yUto-ship-it/UCSY-Roll-calling) |
+| Area | Technologies |
+|---|---|
+| Front end | HTML, CSS, JavaScript |
+| Programming | Java |
+| Database | MySQL |
+| Java database connectivity | JDBC Driver |
 
-## ⌘ Skills
+## Featured Projects
 
-My current focus is front-end web development, with foundational experience in Java and MySQL.
+### 01 · Smart Meter Bill Calculator
+An electricity bill calculator for Myanmar using smart meter rates.
 
-| Technology | Current self-rating |
-|:--|:--|
-| HTML | `█████████░` 90% |
-| CSS | `████████▌░` 85% |
-| JavaScript | `██████░░░░` 60% |
-| Java | `█▌░░░░░░░░` 15% |
-| MySQL | `█░░░░░░░░░` 10% |
+**Built with:** HTML · CSS · JavaScript  
+[Live demo](https://smart-meter-calc.vercel.app/) · [Source code](https://github.com/yUto-ship-it/smart-meter-calc)
 
-*These are personal learning-progress estimates, not formal proficiency or assessment scores.*
+### 02 · WanderWise 360
+A travel guide web app for exploring destinations worldwide.
 
-## ✉ Lets Connect
+**Built with:** HTML · CSS · JavaScript  
+[Live demo](https://wanderwise360.vercel.app/) · [Source code](https://github.com/yUto-ship-it/wanderWise360)
 
-Open to freelance work, collaboration, and conversations about building useful web experiences.
+### 03 · Expense Tracker for Myanmar
+A personal finance tracker designed for Myanmar users.
+
+**Built with:** HTML · CSS · JavaScript  
+[Live demo](https://tracker-yuto.vercel.app/) · [Source code](https://github.com/yUto-ship-it/tracker)
+
+### 04 · UCSY Smart Roll Call
+An automated attendance system featuring QR/face recognition and CSV export.
+
+**Built with:** HTML · CSS · JavaScript  
+[Live demo](https://ucsy-roll-calling.vercel.app/) · [Source code](https://github.com/yUto-ship-it/UCSY-Roll-calling)
+
+### 05 · KN Bank — Java Console System
+An educational Java and MySQL console banking application with account and transfer functionality.
+
+**Built with:** Java · MySQL · JDBC Driver  
+[Repository](https://github.com/yUto-ship-it/KN-Bank-Java-Console-Banking-Application)
+
+## Skills
+
+- **HTML** — semantic page structure
+- **CSS** — responsive styling and layout
+- **JavaScript** — interactive web experiences
+- **Java** — console application development
+- **MySQL** — relational data and persistence
+
+## Contact
+
+### Let’s work together!
+
+Available for freelance work and collaboration opportunities. Reach out and let’s build something amazing together.
 
 - **Email:** [knchtwe@gmail.com](mailto:knchtwe@gmail.com)
 - **Phone:** [+95 9 673586673](tel:+959673586673)
 - **Location:** Pyin Oo Lwin, Myanmar
-- **Portfolio:** [yuto.site](https://yuto.site)
-- **GitHub:** [@yUto-ship-it](https://github.com/yUto-ship-it)
-- **Telegram:** [@yuto_koi](https://t.me/yuto_koi)
-- **Facebook:** [Profile](https://www.facebook.com/share/1Cj6KyDR1V/)
-- **TikTok:** [@yuto_koi](https://tiktok.com/@yuto_koi?_r=1&_t=ZS-95MkWdwy1DB)
+
+**Find me elsewhere:** [Facebook](https://www.facebook.com/share/1Cj6KyDR1V/) · [TikTok](https://tiktok.com/@yuto_koi?_r=1&_t=ZS-95MkWdwy1DB) · [Telegram](https://t.me/yuto_koi) · [GitHub](https://github.com/yUto-koi?tab=repositories)
 
 ---
 
 <div align="center">
 
-**Thanks for stopping by — let’s build something meaningful.**
-
-[Visit yuto.site ↗](https://yuto.site)
+© 2026 Kyaw Nyein Chan Htwe (yUto) · [yuto.site](https://www.yuto.site/)
 
 </div>
