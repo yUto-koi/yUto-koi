@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="my">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>၂၀၂၅ အောင်စာရင်း</title>
+
+  <!-- Performance Optimizations -->
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+ 
+
+  <!-- Google tag (gtag.js) -->
+  <script async defer src="https://www.googletagmanager.com/gtag/js?id=G-MQZBD5M0YK"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-MQZBD5M0YK');
+  </script>
+
+  <style>
+    body {
+      font-family: Pyidaungsu, Myanmar3, Noto Sans Myanmar, sans-serif;
+      padding: 20px;
+      text-align: center;
+      background-color: #e0f7ff;
+    }
+
+    .form-container {
+      display: inline-block;
+      text-align: left;
+      background: lightblue;
+      padding: 60px;
+      border-radius: 10px;
+    }
+
+    .form-group {
+      display: flex;
+      align-items: center;
+      margin: 10px 0;
+    }
+
+    .form-group label {
+      width: 180px;
+      text-align: right;
+      margin-right: 20px;
+      font-weight: bold;
+    }
+
+    .form-group input {
+      padding: 8px;
+      font-weight: bold;
+      width: 200px;
+    }
+
+    button {
+      padding: 8px 16px;
+      margin-top: 10px;
+      font-weight: bold;
+    }
+
+    #result {
+      margin-top: 20px;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .result-content {
+      display: inline-block;
+      text-align: left;
+      margin-top: 10px;
+    }
+
+    .label {
+      display: inline-block;
+      width: 100px;
+    }
+
+    #loadingBarContainer {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 4px;
+      background-color: #ddd;
+      z-index: 9999;
+    }
+
+    #loadingBar {
+      height: 100%;
+      width: 0%;
+      background-color: #2196f3;
+      animation: progressAnim 2s linear forwards;
+    }
+
+    @keyframes progressAnim {
+      0% { width: 0%; }
+      100% { width: 100%; }
+    }
+
+    footer {
+      margin-top: 40px;
+      font-size: x-small;
+      color: #aaa;
+      text-align: center;
+      line-height: 1.5;
+    }
+
+    @media (max-width: 600px) {
+      .form-container {
+        width: 90%;
+        padding: 20px;
+      }
+
+      .form-group {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .form-group label {
+        width: 100%;
+        text-align: left;
+        margin-bottom: 5px;
+      }
+
+      .form-group input {
+        width: 100%;
+      }
+
+      button {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div id="loadingBarContainer">
+  <div id="loadingBar"></div>
+</div>
+
+<h3 style="color: darkblue;"><b>ပညာရေးဝန်ကြီးဌာန</b></h3>
+<h3 style="color: darkblue;"><b>မြန်မာနိုင်ငံစာစစ်ဦးစီးဌာန</b></h3>
+<h2 style="color: #0000cd;"><b>၂၀၂၅ ခုနှစ်၊ တက္ကသိုလ်ဝင် စာမေးပွဲ အောင်စာရင်း 
+<span style="color: silver; font-weight: bold; font-style: italic;">(BETA)</span>
+</b></h2>
+
+<div class="form-container">
+  <div class="form-group">
+    <label>ခုံနံပါတ် (အက္ခရာ)</label>
+    <input type="text" id="rollAlpha" placeholder="ဥပမာ - ကခဂ">
+  </div>
+
+  <div class="form-group">
+    <label>ခုံနံပါတ် (ကိန်းဂဏန်း)</label>
+    <input type="text" id="rollDigit" placeholder="ဥပမာ - ၁၂၃" onkeypress="handleKeyPress(event)">
+  </div>
+
+  <div style="text-align: center;">
+    <button id="searchBtn" onclick="searchResult()">စစ်ဆေးမည်</button>
+  </div>
+
+  <div id="result"></div>
+</div>
+
+<script>
+  let studentData = [];
+  let loadedGroup = null;
+
+  function myanmarNumberToEnglish(myanmarNum) {
+    const myanmarToEngMap = {'၀':'0','၁':'1','၂':'2','၃':'3','၄':'4','၅':'5','၆':'6','၇':'7','၈':'8','၉':'9'};
+    return myanmarNum.replace(/[၀-၉]/g, d => myanmarToEngMap[d] || d);
+  }
+
+  function englishNumberToMyanmar(number) {
+    const engToMyanmarMap = {'0':'၀','1':'၁','2':'၂','3':'၃','4':'၄','5':'၅','6':'၆','7':'၇','8':'၈','9':'၉'};
+    return number.toString().replace(/[0-9]/g, d => engToMyanmarMap[d] || d);
+  }
+
+  function handleKeyPress(event) {
+    if (event.key === 'Enter') {
+      searchResult();
+    }
+  }
+
+  function disableSearchButton() {
+    document.getElementById('searchBtn').disabled = true;
+  }
+
+  function enableSearchButton() {
+    document.getElementById('searchBtn').disabled = false;
+  }
+
+  function showProgressBar() {
+    const bar = document.getElementById('loadingBar');
+    const container = document.getElementById('loadingBarContainer');
+    bar.style.width = '0%';
+    container.style.display = 'block';
+    bar.style.animation = 'progressAnim 2s linear forwards';
+  }
+
+  function hideProgressBar() {
+    document.getElementById('loadingBarContainer').style.display = 'none';
+  }
+
+  function loadStudentGroup(rollAlpha, callback) {
+    if (loadedGroup === rollAlpha) {
+      callback();
+      return;
+    }
+
+    showProgressBar();
+    disableSearchButton();
+    studentData = [];
+    loadedGroup = null;
+
+    const script = document.createElement('script');
+    script.src = `Source_Do_Not_Open/students-${rollAlpha}.js`;
+    script.onload = () => {
+      loadedGroup = rollAlpha;
+      hideProgressBar();
+      enableSearchButton();
+      callback();
+    };
+    script.onerror = () => {
+      hideProgressBar();
+      enableSearchButton();
+      document.getElementById('result').innerHTML = "❌ ဖြည့်သွင်းသည့် အက္ခရာနှင့် စာစစ်ဌာနမရှိပါ၊ ပြန်လည်စစ်ဆေးပါ။";
+    };
+
+    document.head.appendChild(script);
+  }
+
+  function searchResult() {
+    const rollAlpha = document.getElementById('rollAlpha').value.trim();
+    const rollDigitInput = document.getElementById('rollDigit').value.trim();
+    const resultEl = document.getElementById('result');
+
+    gtag('event', 'search_attempt', {
+      'event_category': 'Search',
+      'event_label': `${rollAlpha}-${rollDigitInput}`
+    });
+
+    if (!rollAlpha || !rollDigitInput) {
+      resultEl.innerHTML = "❌ ကျေးဇူးပြု၍ ခုံနံပါတ် အက္ခရာ နှင့် ကိန်းဂဏန်း ဖြည့်ပါ။";
+      return;
+    }
+
+    loadStudentGroup(rollAlpha, () => {
+      const rollDigitEnglish = myanmarNumberToEnglish(rollDigitInput);
+      const rollDigitNumber = parseInt(rollDigitEnglish, 10);
+
+      const student = studentData.find(s =>
+        s["Roll Alpha"] === rollAlpha &&
+        s["Roll Digit"] === rollDigitNumber
+      );
+
+      if (student) {
+        resultEl.innerHTML = `
+          <hr style="border: 2px double green;">
+          <h3 style="color: green;"><b>ရလဒ်</b></h3>
+          <hr style="border: 2px double green;">
+          <div class="result-content">
+            ✅ <b> အောင်မြင်ပါသည်။ ✅</b><br> 
+            <b class="label">ခုံနံပါတ်:</b> ${rollAlpha} ${englishNumberToMyanmar(rollDigitNumber)}<br>
+            <b class="label">အမည်:</b> ${student.Name}<br>
+            <b class="label">ဂုဏ်ထူး:</b> ${student["Distinction Subjects"] || "မရှိပါ။"}
+          </div>
+        `;
+      } else {
+        resultEl.innerHTML = `
+          <hr style="border: 2px ridge darkred;">                   
+          <h3 style="color: red;"><b>ရလဒ်</b></h3>
+          <hr style="border: 2px ridge darkred;">
+          <div class="result-content">
+            ❌  <b> အောင်စာရင်းတွင်ရှာမတွေ့ပါ။ ❌</b><br>
+            <b class="label">ခုံနံပါတ်:</b> ${rollAlpha} ${englishNumberToMyanmar(rollDigitNumber)}<br>
+          </div>
+        `;
+      }
+    });
+  }
+</script>
+<div style="margin-top: 40px;">
+    <a href="https://www.myanmarexam.org" target="_blank" style="font-weight: bold; color: darkblue; text-decoration: none;">
+        📄 စာစစ်ဌာနအလိုက်အောင်စာရင်းများကြည့်ရန်
+    </a>
+</div>
+
+<footer>
+  All rights reserved © Department of Myanmar Examinations, Ministry of Education.<br>
+  System developed by Dr.NW
+</footer>
+
+</body>
+</html>
