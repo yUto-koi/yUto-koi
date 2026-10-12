@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Header Banner / Avatar -->
+<!-- Avatar & Gentleman Border -->
 <a href="https://www.yuto.site/">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663623309572/OADKGNvEcZnuPUGN.jpg" alt="Kyaw Nyein Chan Htwe" width="150" style="border-radius: 50%; border: 2px solid #D4AF37; box-shadow: 0px 0px 20px rgba(212, 175, 55, 0.3);" />
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663623309572/OADKGNvEcZnuPUGN.jpg" alt="Kyaw Nyein Chan Htwe" width="150" style="border-radius: 50%; border: 2px solid #D4AF37; box-shadow: 0px 0px 25px rgba(212, 175, 55, 0.35);" />
 </a>
 
 # 🎩 Kyaw Nyein Chan Htwe
-### *Software Engineering Student & Modern Web Craftsperson*
+### *Software Engineering Student & Full-Stack Hardware/Software Developer*
 <sub>**AKA `yUto`** · Pyin Oo Lwin & Yangon, Myanmar</sub>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <em>"Crafting refined, performant digital solutions with modern interface aesthetics and disciplined code."</em>
+  <em>"Merging high-precision web architecture, embedded robotics, and secure backends with refined gentleman craftsmanship."</em>
 </p>
 
 </div>
@@ -33,10 +33,10 @@
 
 ## ⚜️ Executive Summary
 
-I am a Computer Science student at the **University of Computer Studies, Yangon (UCSY)**, specializing in modern frontend architecture and full-stack system concepts. My focus centers on transforming practical operational workflows into sleek, responsive web applications and secure software tools.
+I am a Computer Science student at the **University of Computer Studies, Yangon (UCSY)**, specializing in web engineering, backend development, embedded robotics, and cybersecurity concepts. As a lead software craftsperson and project manager, I build responsive web platforms, single-page tools, database systems, and hardware-software integrations.
 
 ```yaml
-Current Focus : Full-Stack Web Development, UI/UX Craftsmanship & Java Backends
-Institution   : University of Computer Studies, Yangon (UCSY)
+Current Focus : Web Architecture, Embedded Systems & Core Security Concepts
+Institution   : University of Computer Studies, Yangon (UCSY) [ID: YKPT-23297]
 Location      : Pyin Oo Lwin / Yangon, Myanmar
-Status        : Open for Select Freelance & Engineering Collaborations
+Status        : Open for Select Freelance Work & Engineering Collaborations
