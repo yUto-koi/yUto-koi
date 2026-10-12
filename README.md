@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663623309572/OADKGNvEcZnuPUGN.jpg" alt="Kyaw Nyein Chan Htwe" width="160" style="border-radius: 50%; border: 3px solid #d4af37;" />
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663623309572/OADKGNvEcZnuPUGN.jpg" alt="Kyaw Nyein Chan Htwe" width="160" style="border-radius: 50%; border: 3px solid #6366f1;" />
 
   # ⚡ Hi, I'm Kyaw Nyein Chan Htwe <sub>(yUto)</sub> 👋
 
@@ -11,7 +11,7 @@
   <p><strong>🚀 Building beautiful, responsive web experiences with clean code and modern interface aesthetics.</strong></p>
 
   <p>
-    <a href="https://www.yuto.site/"><img src="https://img.shields.io/badge/Live_Portfolio-yuto.site-d4af37?style=for-the-badge&logo=globe&logoColor=black" alt="Portfolio"></a>
+    <a href="https://www.yuto.site/"><img src="https://img.shields.io/badge/Live_Portfolio-yuto.site-6366f1?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"></a>
     <a href="mailto:knchtwe@gmail.com"><img src="https://img.shields.io/badge/Email_Me-Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://github.com/yUto-koi?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   </p>
@@ -22,11 +22,11 @@
 
 ## 🌟 About Me
 
-I’m a passionate web developer crafting modern, responsive websites and web applications. I love turning practical ideas into useful digital tools—ranging from campus workflows to everyday finance and regional travel discovery.
+I’m a passionate web developer with **less than one year of experience** crafting modern, responsive websites and web applications. I love turning practical ideas into useful digital tools—ranging from campus workflows to everyday finance and regional travel discovery.
 
 - 🎯 **Focus:** Responsive web development, interactive UI/UX, and clean code
 - 🎓 **Education:** Computer Science Student at the **University of Computer Studies, Yangon (UCSY)**
-- 📍 **Based in:** Pyin Oo Lwin / Yangon, Myanmar
+- 📍 **Based in:** Pyin Oo Lwin, Myanmar
 - 💼 **Open to:** Freelance work and exciting collaboration opportunities
 
 ---
@@ -57,7 +57,7 @@ I’m a passionate web developer crafting modern, responsive websites and web ap
       <p>An electricity bill calculator tailored for Myanmar using smart meter rate tiers and automated breakdown metrics.</p>
       <p><strong>Tech Stack:</strong> HTML5 · CSS3 · JavaScript</p>
       <p align="center">
-        <a href="https://smart-meter-calc.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-d4af37?style=flat-square&logo=vercel&logoColor=black" alt="Demo"></a>
+        <a href="https://smart-meter-calc.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white" alt="Demo"></a>
         <a href="https://github.com/yUto-ship-it/smart-meter-calc"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
       </p>
     </td>
@@ -67,7 +67,7 @@ I’m a passionate web developer crafting modern, responsive websites and web ap
       <p>A comprehensive travel guide web application featuring regional tourism discovery, destination guides, and booking forms.</p>
       <p><strong>Tech Stack:</strong> HTML5 · CSS3 · JavaScript</p>
       <p align="center">
-        <a href="https://wanderwise360.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-d4af37?style=flat-square&logo=vercel&logoColor=black" alt="Demo"></a>
+        <a href="https://wanderwise360.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white" alt="Demo"></a>
         <a href="https://github.com/yUto-ship-it/wanderWise360"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
       </p>
     </td>
@@ -79,7 +79,7 @@ I’m a passionate web developer crafting modern, responsive websites and web ap
       <p>A personal finance tracker designed for Myanmar users to manage monthly expenses with PDF export features.</p>
       <p><strong>Tech Stack:</strong> HTML5 · CSS3 · JavaScript</p>
       <p align="center">
-        <a href="https://tracker-yuto.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-d4af37?style=flat-square&logo=vercel&logoColor=black" alt="Demo"></a>
+        <a href="https://tracker-yuto.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white" alt="Demo"></a>
         <a href="https://github.com/yUto-ship-it/tracker"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
       </p>
     </td>
@@ -89,7 +89,7 @@ I’m a passionate web developer crafting modern, responsive websites and web ap
       <p>An automated university attendance system featuring QR/face recognition concepts and CSV data export capabilities.</p>
       <p><strong>Tech Stack:</strong> HTML5 · CSS3 · JavaScript</p>
       <p align="center">
-        <a href="https://ucsy-roll-calling.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-d4af37?style=flat-square&logo=vercel&logoColor=black" alt="Demo"></a>
+        <a href="https://ucsy-roll-calling.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6366f1?style=flat-square&logo=vercel&logoColor=white" alt="Demo"></a>
         <a href="https://github.com/yUto-ship-it/UCSY-Roll-calling"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source"></a>
       </p>
     </td>
@@ -129,6 +129,6 @@ I’m a passionate web developer crafting modern, responsive websites and web ap
 
 ---
 
-<sub>© 2026 Kyaw Nyein Chan Htwe (yUto) · Gentleman Edition.</sub>
+<sub>© 2026 Kyaw Nyein Chan Htwe (yUto) · Built with passion and code.</sub>
 
 </div>
